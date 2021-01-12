@@ -1,0 +1,42 @@
+body{
+    /* margin: 0;
+    padding: 0; */
+    background-color: rgb(169, 189, 226);
+	/* padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Source Sans Pro; */
+}
+
+.container{
+    width: 320px;
+    padding: 10px;
+    background-color: rgb(251, 252, 253);
+    position: absolute;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.container h1{
+    margin-bottom: 40px;
+    color: rgb(58, 144, 241);
+}
+
+.input{
+    width: 100%;
+    padding: 5px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    
+    
+}
+
+.submit-btn{
+    width: 30%;
+    background-color: rgb(111, 202, 202);
+}
